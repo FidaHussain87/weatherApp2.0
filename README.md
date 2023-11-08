@@ -18,14 +18,14 @@ In this folder I have created rest api by consming third paty api form openweath
 - Go to server directory and type npm install
   once, it is finished, type below command to run the project,
   ```sh
-    npm run start:dev
-```
+  npm run start:dev
+  ```
 
-# To run frontend(client app)
+## To run frontend(client app)
 - Go to client directory and type npm install
   once, it is finished, type below command to run the project,
   ```sh
-    npm start
+  npm start
   ```
 
   ## Technologies that I have used so far
