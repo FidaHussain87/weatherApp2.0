@@ -35,9 +35,8 @@ In this folder I have created rest api by consming third paty api form openweath
   - Postgress Database
   - Visual studio code
   - TypeORM model
+  - jwt (for user authentication) 
   - third party (openweather) api
   - react-icons
   - vercel(for deploying react frontend app)
   - render(for deploying backend nestjs app)
- 
-  - 
