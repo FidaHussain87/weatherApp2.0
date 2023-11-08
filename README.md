@@ -2,6 +2,17 @@
 
 In this project, I have created two separate folder, Client and server, for separating frontend abd backend work.
 
+## Frontend view of an app, when you simply provide region name:
+
+![Frontend Application Screenshot for region](https://drive.google.com/file/d/1vXnfmY_SqVV-dMYZyZfHy0VNkX8RYzGb/view?usp=sharing)
+
+
+## Frontend view of an app, when you simply provide coordinates:
+
+![Frontend Application Screenshot for coordinates](https://drive.google.com/file/d/1_OiBPLyUU7OhertEsSsG8M6EZzcziUE_/view?usp=sharing)
+
+
+
 ## Client Folder
 Within this folder, I have used create Weather Card component to show information about specific region, based on user input in search Field
 - By default it will show the wether information of Berlin City,
