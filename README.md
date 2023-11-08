@@ -4,12 +4,12 @@ In this project, I have created two separate folder, Client and server, for sepa
 
 ## Frontend view of an app, when you simply provide region name:
 
-![Frontend Application Screenshot for region](https://drive.google.com/file/d/1vXnfmY_SqVV-dMYZyZfHy0VNkX8RYzGb/view?usp=sharing)
+![Frontend Application Screenshot for region](https://drive.google.com/uc?export=view&id=1vXnfmY_SqVV-dMYZyZfHy0VNkX8RYzGb)
 
 
 ## Frontend view of an app, when you simply provide coordinates:
 
-![Frontend Application Screenshot for coordinates](https://drive.google.com/file/d/1_OiBPLyUU7OhertEsSsG8M6EZzcziUE_/view?usp=sharing)
+![Frontend Application Screenshot for coordinates](https://drive.google.com/uc?export=view&id=1_OiBPLyUU7OhertEsSsG8M6EZzcziUE_)
 
 
 
